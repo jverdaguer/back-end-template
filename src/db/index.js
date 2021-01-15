@@ -1,2 +1,2 @@
 export { db } from './db';
-export { getPopulatedMeals } from './getPopulatedMeals';
+// export { getPopulatedMeals } from './getPopulatedMeals';
